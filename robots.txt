@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /crypto-addr.html
+Disallow: /BR_news.html
